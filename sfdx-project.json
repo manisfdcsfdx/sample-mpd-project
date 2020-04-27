@@ -1,0 +1,17 @@
+{
+  "packageDirectories": [
+    {
+      "path": "package/core",
+      "default": true
+    },
+    {
+      "path": "package/commons"
+    },
+    {
+      "path": "package/inspection"
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "47.0"
+}
