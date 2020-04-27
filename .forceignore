@@ -12,6 +12,6 @@ package.xml
 **/__tests__/**
 
 
-#package/core
-#package/commons
-#package/inspection
+#package/core/
+#package/commons/
+#package/inspection/
